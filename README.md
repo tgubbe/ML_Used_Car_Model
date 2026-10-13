@@ -1,0 +1,1 @@
+This is a group project designed to demonstrate a shallow learning Machine Learning model to predict the used car sales price of vehicles in the United States. The data was collected from Kaggle at https://www.kaggle.com/datasets/syedanwarafridi/vehicle-sales-data
